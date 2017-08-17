@@ -1,0 +1,12 @@
+{
+    "errors": [
+               {
+               "id": "string",
+               "status": "string",
+               "title": "string",
+               "detail": "string",
+               "code": "string",
+               "source": {}
+               }
+               ]
+}

@@ -1,0 +1,1317 @@
+{
+    "feeds": [
+              {
+              "id": 1,
+              "name": "STM",
+              "code": "STM",
+              "feed_network_name": "",
+              "timezone": "America/Montreal",
+              "bounds": {
+              "min_lat": 45.313,
+              "max_lat": 45.7892,
+              "min_lon": -74.0442,
+              "max_lon": -73.3914
+              },
+              "bgtfs_uploaded_at": "2017-08-10T14:55:47Z",
+              "location": "Montréal",
+              "country_code": "CA",
+              "bgtfs_hash": "9407c5a85c9a9ca80a06a81ffa7689fd"
+              },
+              {
+              "id": 2,
+              "name": "RTL",
+              "code": "RTL",
+              "feed_network_name": null,
+              "timezone": "America/Montreal",
+              "bounds": {
+              "min_lat": 45.3363,
+              "max_lat": 45.7272,
+              "min_lon": -73.6553,
+              "max_lon": -73.2126
+              },
+              "bgtfs_uploaded_at": "2017-08-10T14:59:15Z",
+              "location": "Montréal",
+              "country_code": "CA",
+              "bgtfs_hash": "9e84dae3ba3022f15d72e5325b348031"
+              },
+              {
+              "id": 3,
+              "name": "STL",
+              "code": "STL",
+              "feed_network_name": null,
+              "timezone": "America/Montreal",
+              "bounds": {
+              "min_lat": 45.4248,
+              "max_lat": 45.7885,
+              "min_lon": -73.9692,
+              "max_lon": -73.4457
+              },
+              "bgtfs_uploaded_at": "2017-08-10T14:50:57Z",
+              "location": "Montréal",
+              "country_code": "CA",
+              "bgtfs_hash": "9d73857450b35400d9a9e21d55912670"
+              },
+              {
+              "id": 4,
+              "name": "AMT (trains)",
+              "code": "AMTTRAINS",
+              "feed_network_name": "AMT",
+              "timezone": "America/Montreal",
+              "bounds": {
+              "min_lat": 45.2766,
+              "max_lat": 45.8561,
+              "min_lon": -74.2291,
+              "max_lon": -73.0963
+              },
+              "bgtfs_uploaded_at": "2017-08-10T14:46:32Z",
+              "location": "Montréal",
+              "country_code": "CA",
+              "bgtfs_hash": "390f172f600ca3b29d22fb92176f3556"
+              },
+              {
+              "id": 6,
+              "name": "RTC",
+              "code": "RTC",
+              "feed_network_name": null,
+              "timezone": "America/Montreal",
+              "bounds": {
+              "min_lat": 46.6438,
+              "max_lat": 47.0337,
+              "min_lon": -71.6089,
+              "max_lon": -71.0234
+              },
+              "bgtfs_uploaded_at": "2017-08-09T05:10:51Z",
+              "location": "Québec",
+              "country_code": "CA",
+              "bgtfs_hash": "c6e88ddaaeed1065b05a9ae8dbad0e93"
+              },
+              {
+              "id": 7,
+              "name": "Ville de Sainte-Julie",
+              "code": "OMITSJU",
+              "feed_network_name": null,
+              "timezone": "America/Montreal",
+              "bounds": {
+              "min_lat": 45.3518,
+              "max_lat": 45.7218,
+              "min_lon": -73.6564,
+              "max_lon": -73.1988
+              },
+              "bgtfs_uploaded_at": "2017-08-14T22:02:46Z",
+              "location": "Montréal",
+              "country_code": "CA",
+              "bgtfs_hash": "59f8a60ad7cd89411d3b07ab343662e7"
+              },
+              {
+              "id": 8,
+              "name": "Urbis (MRC Les Moulins)",
+              "code": "MRCLM",
+              "feed_network_name": "",
+              "timezone": "America/Montreal",
+              "bounds": {
+              "min_lat": 45.4663,
+              "max_lat": 45.8899,
+              "min_lon": -73.9278,
+              "max_lon": -73.4082
+              },
+              "bgtfs_uploaded_at": "2017-08-10T14:51:27Z",
+              "location": "Montréal",
+              "country_code": "CA",
+              "bgtfs_hash": "a74c27a4e0657f770fef5a8a6c8fbb7e"
+              },
+              {
+              "id": 9,
+              "name": "MRC de Deux-Montagnes",
+              "code": "MRC2M",
+              "feed_network_name": null,
+              "timezone": "America/Montreal",
+              "bounds": {
+              "min_lat": 45.3722,
+              "max_lat": 45.6596,
+              "min_lon": -74.2932,
+              "max_lon": -73.8107
+              },
+              "bgtfs_uploaded_at": "2017-08-10T14:47:06Z",
+              "location": "Montréal",
+              "country_code": "CA",
+              "bgtfs_hash": "9d55849ff27b24ba0e5dae7c752f3cf1"
+              },
+              {
+              "id": 10,
+              "name": "MRC de L'Assomption",
+              "code": "MRCLASSO",
+              "feed_network_name": null,
+              "timezone": "America/Montreal",
+              "bounds": {
+              "min_lat": 45.5006,
+              "max_lat": 45.9912,
+              "min_lon": -73.6248,
+              "max_lon": -73.1908
+              },
+              "bgtfs_uploaded_at": "2017-08-14T05:02:37Z",
+              "location": "Montréal",
+              "country_code": "CA",
+              "bgtfs_hash": "3a67382cc9c4586003a4bb71ba205380"
+              },
+              {
+              "id": 11,
+              "name": "CIT Vallée-du-Richelieu",
+              "code": "CITVR",
+              "feed_network_name": null,
+              "timezone": "America/Montreal",
+              "bounds": {
+              "min_lat": 45.3542,
+              "max_lat": 45.7397,
+              "min_lon": -73.6538,
+              "max_lon": -72.8005
+              },
+              "bgtfs_uploaded_at": "2017-08-14T22:03:05Z",
+              "location": "Montréal",
+              "country_code": "CA",
+              "bgtfs_hash": "fb90219c93e7c5a801a1e780d5f98fa6"
+              },
+              {
+              "id": 12,
+              "name": "CIT Sud-Ouest",
+              "code": "CITSO",
+              "feed_network_name": null,
+              "timezone": "America/Montreal",
+              "bounds": {
+              "min_lat": 45.138,
+              "max_lat": 45.5868,
+              "min_lon": -74.3834,
+              "max_lon": -73.4737
+              },
+              "bgtfs_uploaded_at": "2017-08-14T22:02:13Z",
+              "location": "Montréal",
+              "country_code": "CA",
+              "bgtfs_hash": "05ea1a0b8b1a3d3bae9bd9c8dfa7b4ff"
+              },
+              {
+              "id": 13,
+              "name": "CIT Sorel-Varennes",
+              "code": "CITSV",
+              "feed_network_name": null,
+              "timezone": "America/Montreal",
+              "bounds": {
+              "min_lat": 45.4334,
+              "max_lat": 46.136,
+              "min_lon": -73.6116,
+              "max_lon": -72.9951
+              },
+              "bgtfs_uploaded_at": "2017-08-10T14:43:30Z",
+              "location": "Montréal",
+              "country_code": "CA",
+              "bgtfs_hash": "2ef41fcb23d9ee3f9d27850e9eab4143"
+              },
+              {
+              "id": 14,
+              "name": "CIT Roussillon",
+              "code": "CITROUS",
+              "feed_network_name": null,
+              "timezone": "America/Montreal",
+              "bounds": {
+              "min_lat": 45.2754,
+              "max_lat": 45.6403,
+              "min_lon": -73.7476,
+              "max_lon": -73.3356
+              },
+              "bgtfs_uploaded_at": "2017-08-10T14:45:26Z",
+              "location": "Montréal",
+              "country_code": "CA",
+              "bgtfs_hash": "19e108ef6deabce5017f9dc26b904920"
+              },
+              {
+              "id": 15,
+              "name": "CIT Le Richelain",
+              "code": "CITLR",
+              "feed_network_name": null,
+              "timezone": "America/Montreal",
+              "bounds": {
+              "min_lat": 45.268,
+              "max_lat": 45.6393,
+              "min_lon": -73.6557,
+              "max_lon": -73.3034
+              },
+              "bgtfs_uploaded_at": "2017-08-14T22:03:28Z",
+              "location": "Montréal",
+              "country_code": "CA",
+              "bgtfs_hash": "c34b917464cc27ab793704e4740131f1"
+              },
+              {
+              "id": 16,
+              "name": "CRT Lanaudière",
+              "code": "CRTL",
+              "feed_network_name": null,
+              "timezone": "America/Montreal",
+              "bounds": {
+              "min_lat": 45.5004,
+              "max_lat": 46.7719,
+              "min_lon": -74.3161,
+              "max_lon": -73.079
+              },
+              "bgtfs_uploaded_at": "2017-08-10T14:47:08Z",
+              "location": "Montréal",
+              "country_code": "CA",
+              "bgtfs_hash": "a9859050dfdac2d24f044c01a633c159"
+              },
+              {
+              "id": 17,
+              "name": "CIT La Presqu'Île",
+              "code": "CITPI",
+              "feed_network_name": null,
+              "timezone": "America/Montreal",
+              "bounds": {
+              "min_lat": 45.2612,
+              "max_lat": 45.6037,
+              "min_lon": -74.401,
+              "max_lon": -73.594
+              },
+              "bgtfs_uploaded_at": "2017-08-14T22:00:06Z",
+              "location": "Montréal",
+              "country_code": "CA",
+              "bgtfs_hash": "a395350b05d50437acb0511ab986e347"
+              },
+              {
+              "id": 18,
+              "name": "CIT des Laurentides",
+              "code": "CITLA",
+              "feed_network_name": null,
+              "timezone": "America/Montreal",
+              "bounds": {
+              "min_lat": 45.3999,
+              "max_lat": 45.9023,
+              "min_lon": -74.1396,
+              "max_lon": -73.5864
+              },
+              "bgtfs_uploaded_at": "2017-08-14T22:00:56Z",
+              "location": "Montréal",
+              "country_code": "CA",
+              "bgtfs_hash": "af00ccf00c52991160cf40e1044772bc"
+              },
+              {
+              "id": 19,
+              "name": "CIT du Haut-Saint-Laurent",
+              "code": "CITHSL",
+              "feed_network_name": null,
+              "timezone": "America/Montreal",
+              "bounds": {
+              "min_lat": 45.0308,
+              "max_lat": 45.5876,
+              "min_lon": -74.1012,
+              "max_lon": -73.4742
+              },
+              "bgtfs_uploaded_at": "2017-08-10T14:44:39Z",
+              "location": "Montréal",
+              "country_code": "CA",
+              "bgtfs_hash": "a3fe7daa2406989ca70e905543719df1"
+              },
+              {
+              "id": 20,
+              "name": "CIT Chambly-Richelieu-Carignan",
+              "code": "CITCRC",
+              "feed_network_name": null,
+              "timezone": "America/Montreal",
+              "bounds": {
+              "min_lat": 45.2071,
+              "max_lat": 45.6292,
+              "min_lon": -73.6561,
+              "max_lon": -73.0543
+              },
+              "bgtfs_uploaded_at": "2017-08-10T14:44:56Z",
+              "location": "Montréal",
+              "country_code": "CA",
+              "bgtfs_hash": "3bb501482a4fc42150b06e85bcebb7ca"
+              },
+              {
+              "id": 21,
+              "name": "TTC Buses",
+              "code": "TTC",
+              "feed_network_name": "TTC",
+              "timezone": "America/Toronto",
+              "bounds": {
+              "min_lat": 43.5021,
+              "max_lat": 43.9948,
+              "min_lon": -79.7378,
+              "max_lon": -79.0412
+              },
+              "bgtfs_uploaded_at": "2017-08-14T16:17:49Z",
+              "location": "Toronto",
+              "country_code": "CA",
+              "bgtfs_hash": "a91e178c3af25ed5e86b08e3cabf3c34"
+              },
+              {
+              "id": 22,
+              "name": "GO Transit",
+              "code": "GOTRANSIT",
+              "feed_network_name": null,
+              "timezone": "America/Toronto",
+              "bounds": {
+              "min_lat": 43.0062,
+              "max_lat": 44.5164,
+              "min_lon": -80.6344,
+              "max_lon": -78.1961
+              },
+              "bgtfs_uploaded_at": "2017-08-02T05:12:26Z",
+              "location": "Toronto",
+              "country_code": "CA",
+              "bgtfs_hash": "3014457c23bea65047edf1ca807836c9"
+              },
+              {
+              "id": 23,
+              "name": "YRT",
+              "code": "YRT",
+              "feed_network_name": null,
+              "timezone": "America/Toronto",
+              "bounds": {
+              "min_lat": 43.6301,
+              "max_lat": 44.4269,
+              "min_lon": -79.7688,
+              "max_lon": -79.0907
+              },
+              "bgtfs_uploaded_at": "2017-07-03T13:36:51Z",
+              "location": "Toronto",
+              "country_code": "CA",
+              "bgtfs_hash": "0ea33227095f8a19db8d69e48eb2c040"
+              },
+              {
+              "id": 24,
+              "name": "Guelph Transit",
+              "code": "GUELPH",
+              "feed_network_name": null,
+              "timezone": "America/Toronto",
+              "bounds": {
+              "min_lat": 43.4001,
+              "max_lat": 43.6679,
+              "min_lon": -80.4136,
+              "max_lon": -80.0894
+              },
+              "bgtfs_uploaded_at": "2017-08-10T05:02:56Z",
+              "location": "Toronto",
+              "country_code": "CA",
+              "bgtfs_hash": "cd4b83b27bd4070c0c9ae96315a376b6"
+              },
+              {
+              "id": 25,
+              "name": "Hamilton Street Railway",
+              "code": "HSR",
+              "feed_network_name": "HSR",
+              "timezone": "America/Toronto",
+              "bounds": {
+              "min_lat": 43.0658,
+              "max_lat": 43.4322,
+              "min_lon": -80.1163,
+              "max_lon": -79.6013
+              },
+              "bgtfs_uploaded_at": "2017-07-29T05:03:39Z",
+              "location": "Toronto",
+              "country_code": "CA",
+              "bgtfs_hash": "723c250dc6ae53f4c581a147d1632ddf"
+              },
+              {
+              "id": 26,
+              "name": "Grand River Transit",
+              "code": "GRT",
+              "feed_network_name": "GRT",
+              "timezone": "America/New_York",
+              "bounds": {
+              "min_lat": 43.2515,
+              "max_lat": 43.6898,
+              "min_lon": -80.7995,
+              "max_lon": -80.1842
+              },
+              "bgtfs_uploaded_at": "2017-08-01T05:03:09Z",
+              "location": "Toronto",
+              "country_code": "CA",
+              "bgtfs_hash": "eab01e263b16d4d72d32f06775b5f34d"
+              },
+              {
+              "id": 27,
+              "name": "OC Transpo",
+              "code": "OCT",
+              "feed_network_name": null,
+              "timezone": "America/Montreal",
+              "bounds": {
+              "min_lat": 45.0558,
+              "max_lat": 45.6084,
+              "min_lon": -76.0624,
+              "max_lon": -75.2554
+              },
+              "bgtfs_uploaded_at": "2017-08-03T05:35:36Z",
+              "location": "Ottawa",
+              "country_code": "CA",
+              "bgtfs_hash": "e6cc5b0225e7cf702ae19007bf254c2a"
+              },
+              {
+              "id": 29,
+              "name": "Halifax Transit",
+              "code": "HLF",
+              "feed_network_name": null,
+              "timezone": "America/Halifax",
+              "bounds": {
+              "min_lat": 44.3919,
+              "max_lat": 44.9906,
+              "min_lon": -63.9484,
+              "max_lon": -63.1664
+              },
+              "bgtfs_uploaded_at": "2017-08-03T15:15:16Z",
+              "location": "Halifax",
+              "country_code": "CA",
+              "bgtfs_hash": "e566e174d768da68a8e6112fcad47a41"
+              },
+              {
+              "id": 30,
+              "name": "Calgary Transit",
+              "code": "CAL",
+              "feed_network_name": null,
+              "timezone": "America/Edmonton",
+              "bounds": {
+              "min_lat": 50.7656,
+              "max_lat": 51.2707,
+              "min_lon": -114.3586,
+              "max_lon": -113.8169
+              },
+              "bgtfs_uploaded_at": "2017-08-10T05:20:14Z",
+              "location": "Calgary",
+              "country_code": "CA",
+              "bgtfs_hash": "bb2fae70eaba04f402ab405bea6bd0df"
+              },
+              {
+              "id": 32,
+              "name": "TransLink (CA-BC)",
+              "code": "TSL",
+              "feed_network_name": "TransLink",
+              "timezone": "America/Vancouver",
+              "bounds": {
+              "min_lat": 48.9145,
+              "max_lat": 49.5638,
+              "min_lon": -123.5105,
+              "max_lon": -122.2129
+              },
+              "bgtfs_uploaded_at": "2017-08-14T05:31:48Z",
+              "location": "Vancouver",
+              "country_code": "CA",
+              "bgtfs_hash": "c7b38996ca5c1106e1169eda7a23efcb"
+              },
+              {
+              "id": 34,
+              "name": "Winnipeg Transit",
+              "code": "WPG",
+              "feed_network_name": null,
+              "timezone": "America/Winnipeg",
+              "bounds": {
+              "min_lat": 49.655,
+              "max_lat": 50.0535,
+              "min_lon": -97.4097,
+              "max_lon": -96.8734
+              },
+              "bgtfs_uploaded_at": "2017-08-14T05:07:02Z",
+              "location": "Winnipeg",
+              "country_code": "CA",
+              "bgtfs_hash": "52335b8a7854585f2b16ee1e11abe398"
+              },
+              {
+              "id": 36,
+              "name": "NYC Subway",
+              "code": "MTAS",
+              "feed_network_name": "MTA",
+              "timezone": "America/New_York",
+              "bounds": {
+              "min_lat": 40.4229,
+              "max_lat": 40.9909,
+              "min_lon": -74.3366,
+              "max_lon": -73.6671
+              },
+              "bgtfs_uploaded_at": "2017-08-08T18:32:40Z",
+              "location": "NYC",
+              "country_code": "US",
+              "bgtfs_hash": "a71ce15aa485f3ce044f0ce5d1b6f20b"
+              },
+              {
+              "id": 37,
+              "name": "Manhattan Buses",
+              "code": "MTAMNT",
+              "feed_network_name": "MTA Manhattan",
+              "timezone": "America/New_York",
+              "bounds": {
+              "min_lat": 40.6165,
+              "max_lat": 40.9553,
+              "min_lon": -74.102,
+              "max_lon": -73.7783
+              },
+              "bgtfs_uploaded_at": "2017-08-11T20:25:08Z",
+              "location": "NYC",
+              "country_code": "US",
+              "bgtfs_hash": "729ef770420eed3d45fc2e93b1e9cff4"
+              },
+              {
+              "id": 38,
+              "name": "Brooklyn Buses",
+              "code": "MTABK",
+              "feed_network_name": "MTA Brooklyn",
+              "timezone": "America/New_York",
+              "bounds": {
+              "min_lat": 40.4902,
+              "max_lat": 40.8512,
+              "min_lon": -74.1304,
+              "max_lon": -73.6903
+              },
+              "bgtfs_uploaded_at": "2017-08-04T16:34:11Z",
+              "location": "NYC",
+              "country_code": "US",
+              "bgtfs_hash": "4877a3a96e2a83db46cdcadf56e24167"
+              },
+              {
+              "id": 39,
+              "name": "Bronx Buses",
+              "code": "MTABX",
+              "feed_network_name": "MTA Bronx",
+              "timezone": "America/New_York",
+              "bounds": {
+              "min_lat": 40.7125,
+              "max_lat": 40.9955,
+              "min_lon": -74.049,
+              "max_lon": -73.6997
+              },
+              "bgtfs_uploaded_at": "2017-07-21T15:21:47Z",
+              "location": "NYC",
+              "country_code": "US",
+              "bgtfs_hash": "1ef22ab31fc9bd4227ec255fdc8b8d61"
+              },
+              {
+              "id": 40,
+              "name": "Queens Buses",
+              "code": "MTAQN",
+              "feed_network_name": "MTA Queens",
+              "timezone": "America/New_York",
+              "bounds": {
+              "min_lat": 40.5582,
+              "max_lat": 40.9322,
+              "min_lon": -74.0798,
+              "max_lon": -73.6116
+              },
+              "bgtfs_uploaded_at": "2017-07-21T15:13:36Z",
+              "location": "NYC",
+              "country_code": "US",
+              "bgtfs_hash": "582540f0fd438c02f17155bc4b9f87c0"
+              },
+              {
+              "id": 41,
+              "name": "Staten Island Buses",
+              "code": "MTASI",
+              "feed_network_name": "MTA Staten Island",
+              "timezone": "America/New_York",
+              "bounds": {
+              "min_lat": 40.4151,
+              "max_lat": 40.8703,
+              "min_lon": -74.3406,
+              "max_lon": -73.8775
+              },
+              "bgtfs_uploaded_at": "2017-07-21T15:23:21Z",
+              "location": "NYC",
+              "country_code": "US",
+              "bgtfs_hash": "643401fbdb023f993a254319d071d529"
+              },
+              {
+              "id": 42,
+              "name": "NYC Bus Company",
+              "code": "MTABC",
+              "feed_network_name": null,
+              "timezone": "America/New_York",
+              "bounds": {
+              "min_lat": 40.4793,
+              "max_lat": 41.0218,
+              "min_lon": -74.0995,
+              "max_lon": -73.6126
+              },
+              "bgtfs_uploaded_at": "2017-07-21T15:16:43Z",
+              "location": "NYC",
+              "country_code": "US",
+              "bgtfs_hash": "549d1b2789e4756e86740fd8ebadf194"
+              },
+              {
+              "id": 43,
+              "name": "Long Island Rail Road",
+              "code": "MTALIRR",
+              "feed_network_name": null,
+              "timezone": "America/New_York",
+              "bounds": {
+              "min_lat": 40.5028,
+              "max_lat": 41.1849,
+              "min_lon": -74.0835,
+              "max_lon": -71.8649
+              },
+              "bgtfs_uploaded_at": "2017-08-10T05:08:37Z",
+              "location": "NYC",
+              "country_code": "US",
+              "bgtfs_hash": "66c8daa0e1ad6db8a5b4de381a0afd90"
+              },
+              {
+              "id": 44,
+              "name": "Metro-North Railroad",
+              "code": "MTAMNRR",
+              "feed_network_name": null,
+              "timezone": "America/New_York",
+              "bounds": {
+              "min_lat": 40.665,
+              "max_lat": 41.9002,
+              "min_lon": -74.0722,
+              "max_lon": -72.8327
+              },
+              "bgtfs_uploaded_at": "2017-08-10T21:18:43Z",
+              "location": "NYC",
+              "country_code": "US",
+              "bgtfs_hash": "d04226d5b708af544311f0b0e1379e73"
+              },
+              {
+              "id": 45,
+              "name": "Saskatoon Transit",
+              "code": "SKT",
+              "feed_network_name": "",
+              "timezone": "America/Regina",
+              "bounds": {
+              "min_lat": 51.988,
+              "max_lat": 52.2843,
+              "min_lon": -106.8498,
+              "max_lon": -106.4629
+              },
+              "bgtfs_uploaded_at": "2017-06-27T18:48:30Z",
+              "location": "Saskatoon",
+              "country_code": "CA",
+              "bgtfs_hash": "b4e194252b8d26dcbf412b00ed9b3a6f"
+              },
+              {
+              "id": 46,
+              "name": "BART",
+              "code": "BART",
+              "feed_network_name": null,
+              "timezone": "America/Los_Angeles",
+              "bounds": {
+              "min_lat": 37.4153,
+              "max_lat": 38.1133,
+              "min_lon": -122.5609,
+              "max_lon": -121.8127
+              },
+              "bgtfs_uploaded_at": "2017-06-29T17:37:06Z",
+              "location": "SF Bay Area",
+              "country_code": "US",
+              "bgtfs_hash": "c9000c1c089e72c635a880311efc2399"
+              },
+              {
+              "id": 48,
+              "name": "MUNI",
+              "code": "MUNI",
+              "feed_network_name": null,
+              "timezone": "America/Los_Angeles",
+              "bounds": {
+              "min_lat": 37.6148,
+              "max_lat": 37.9212,
+              "min_lon": -122.6287,
+              "max_lon": -122.2781
+              },
+              "bgtfs_uploaded_at": "2017-08-15T05:14:13Z",
+              "location": "SF Bay Area",
+              "country_code": "US",
+              "bgtfs_hash": "3cecda3fcf4a647a877b161e936b207a"
+              },
+              {
+              "id": 49,
+              "name": "Caltrain",
+              "code": "CALT",
+              "feed_network_name": "",
+              "timezone": "America/Los_Angeles",
+              "bounds": {
+              "min_lat": 36.9203,
+              "max_lat": 37.8595,
+              "min_lon": -122.5031,
+              "max_lon": -121.4778
+              },
+              "bgtfs_uploaded_at": "2017-07-19T15:32:20Z",
+              "location": "SF Bay Area",
+              "country_code": "US",
+              "bgtfs_hash": "3db8c1295f0d7f77d688afcf164378be"
+              },
+              {
+              "id": 50,
+              "name": "Edmonton Transit",
+              "code": "ETS",
+              "feed_network_name": "ETS",
+              "timezone": "America/Edmonton",
+              "bounds": {
+              "min_lat": 53.2175,
+              "max_lat": 53.8049,
+              "min_lon": -114.0233,
+              "max_lon": -113.1239
+              },
+              "bgtfs_uploaded_at": "2017-08-11T18:13:25Z",
+              "location": "Edmonton",
+              "country_code": "CA",
+              "bgtfs_hash": "0336b90e6a5ca04f1ef9dc99d322ff89"
+              },
+              {
+              "id": 51,
+              "name": "AC Transit",
+              "code": "ACT",
+              "feed_network_name": "",
+              "timezone": "America/Los_Angeles",
+              "bounds": {
+              "min_lat": 37.3035,
+              "max_lat": 38.086,
+              "min_lon": -122.5093,
+              "max_lon": -121.8029
+              },
+              "bgtfs_uploaded_at": "2017-08-01T21:13:29Z",
+              "location": "SF Bay Area",
+              "country_code": "US",
+              "bgtfs_hash": "0731e1bd69ba83dfcf4b254c54c1cac1"
+              },
+              {
+              "id": 52,
+              "name": "VTA",
+              "code": "VTA",
+              "feed_network_name": "",
+              "timezone": "America/Los_Angeles",
+              "bounds": {
+              "min_lat": 36.8916,
+              "max_lat": 37.6508,
+              "min_lon": -122.2625,
+              "max_lon": -121.4605
+              },
+              "bgtfs_uploaded_at": "2017-08-10T14:56:28Z",
+              "location": "SF Bay Area",
+              "country_code": "US",
+              "bgtfs_hash": "d552962297dbb2f1dd55777b4837a29b"
+              },
+              {
+              "id": 53,
+              "name": "Metro Bus (LA)",
+              "code": "MLA",
+              "feed_network_name": "Metro",
+              "timezone": "America/Los_Angeles",
+              "bounds": {
+              "min_lat": 33.6171,
+              "max_lat": 34.4178,
+              "min_lon": -118.9495,
+              "max_lon": -117.8251
+              },
+              "bgtfs_uploaded_at": "2017-08-14T18:29:38Z",
+              "location": "Los Angeles",
+              "country_code": "US",
+              "bgtfs_hash": "fc35e1eaab33ccf64a8b5878c831d9e2"
+              },
+              {
+              "id": 54,
+              "name": "CTA",
+              "code": "CTA",
+              "feed_network_name": null,
+              "timezone": "America/Chicago",
+              "bounds": {
+              "min_lat": 41.5619,
+              "max_lat": 42.1614,
+              "min_lon": -87.9864,
+              "max_lon": -87.4358
+              },
+              "bgtfs_uploaded_at": "2017-07-29T02:52:41Z",
+              "location": "Chicago",
+              "country_code": "US",
+              "bgtfs_hash": "12a8daec4eca6fcc17ea6f155b97fef0"
+              },
+              {
+              "id": 59,
+              "name": "METRO",
+              "code": "MTAHC",
+              "feed_network_name": null,
+              "timezone": "America/Chicago",
+              "bounds": {
+              "min_lat": 29.4503,
+              "max_lat": 30.1443,
+              "min_lon": -95.8667,
+              "max_lon": -94.8924
+              },
+              "bgtfs_uploaded_at": "2017-08-04T05:28:03Z",
+              "location": "Houston",
+              "country_code": "US",
+              "bgtfs_hash": "e9be2636908416c05f2ddcd3b3a90e17"
+              },
+              {
+              "id": 60,
+              "name": "SEPTA Buses",
+              "code": "SEPTAB",
+              "feed_network_name": "SEPTA",
+              "timezone": "America/New_York",
+              "bounds": {
+              "min_lat": 39.7224,
+              "max_lat": 40.4196,
+              "min_lon": -75.7665,
+              "max_lon": -74.6649
+              },
+              "bgtfs_uploaded_at": "2017-07-19T20:57:17Z",
+              "location": "Philadelphia",
+              "country_code": "US",
+              "bgtfs_hash": "60891e379ba74aad684ab527cee9fc6f"
+              },
+              {
+              "id": 61,
+              "name": "SEPTA Rail",
+              "code": "SEPTAR",
+              "feed_network_name": "SEPTA",
+              "timezone": "America/New_York",
+              "bounds": {
+              "min_lat": 39.5871,
+              "max_lat": 40.3964,
+              "min_lon": -75.8514,
+              "max_lon": -74.6667
+              },
+              "bgtfs_uploaded_at": "2017-06-29T05:08:31Z",
+              "location": "Philadelphia",
+              "country_code": "US",
+              "bgtfs_hash": "678eec1e64c046ad44347b25a968880f"
+              },
+              {
+              "id": 62,
+              "name": "VIA",
+              "code": "VIAMT",
+              "feed_network_name": "",
+              "timezone": "America/Chicago",
+              "bounds": {
+              "min_lat": 29.0952,
+              "max_lat": 29.7298,
+              "min_lon": -98.7996,
+              "max_lon": -98.1394
+              },
+              "bgtfs_uploaded_at": "2017-06-05T23:49:13Z",
+              "location": "San Antonio",
+              "country_code": "US",
+              "bgtfs_hash": "cf050fc6d70fcff1ad76167dcc1ce050"
+              },
+              {
+              "id": 63,
+              "name": "MTS",
+              "code": "SDMTS",
+              "feed_network_name": null,
+              "timezone": "America/Los_Angeles",
+              "bounds": {
+              "min_lat": 32.4525,
+              "max_lat": 33.3467,
+              "min_lon": -117.3675,
+              "max_lon": -116.0964
+              },
+              "bgtfs_uploaded_at": "2017-08-07T15:28:19Z",
+              "location": "San Diego",
+              "country_code": "US",
+              "bgtfs_hash": "05298904dbd45e4ff3515e68f1a004fd"
+              },
+              {
+              "id": 64,
+              "name": "NCTD",
+              "code": "NCTD",
+              "feed_network_name": "",
+              "timezone": "America/Los_Angeles",
+              "bounds": {
+              "min_lat": 32.6339,
+              "max_lat": 33.5142,
+              "min_lon": -117.6877,
+              "max_lon": -116.7787
+              },
+              "bgtfs_uploaded_at": "2017-05-31T05:15:05Z",
+              "location": "San Diego",
+              "country_code": "US",
+              "bgtfs_hash": "9345f6de1435a945cfb724caddd2e1f7"
+              },
+              {
+              "id": 65,
+              "name": "Pace",
+              "code": "PACE",
+              "feed_network_name": null,
+              "timezone": "America/Chicago",
+              "bounds": {
+              "min_lat": 41.3141,
+              "max_lat": 42.5626,
+              "min_lon": -88.7093,
+              "max_lon": -87.4332
+              },
+              "bgtfs_uploaded_at": "2017-08-05T07:24:36Z",
+              "location": "Chicago",
+              "country_code": "US",
+              "bgtfs_hash": "0651ccc942bc0a8b36c58b0b59e54e2c"
+              },
+              {
+              "id": 66,
+              "name": "DART",
+              "code": "DART",
+              "feed_network_name": "",
+              "timezone": "America/Chicago",
+              "bounds": {
+              "min_lat": 32.4709,
+              "max_lat": 33.1781,
+              "min_lon": -97.4182,
+              "max_lon": -96.4163
+              },
+              "bgtfs_uploaded_at": "2017-08-14T21:31:46Z",
+              "location": "Dallas",
+              "country_code": "US",
+              "bgtfs_hash": "57c79ba7c5540c10c622d3b20b61feff"
+              },
+              {
+              "id": 67,
+              "name": "MBTA",
+              "code": "MBTA",
+              "feed_network_name": "",
+              "timezone": "America/New_York",
+              "bounds": {
+              "min_lat": 41.4913,
+              "max_lat": 42.8878,
+              "min_lon": -71.9338,
+              "max_lon": -70.167
+              },
+              "bgtfs_uploaded_at": "2017-08-10T13:47:11Z",
+              "location": "Boston",
+              "country_code": "US",
+              "bgtfs_hash": "320bfd78eea6b901a9446b583a90911c"
+              },
+              {
+              "id": 68,
+              "name": "Massport",
+              "code": "MASSP",
+              "feed_network_name": null,
+              "timezone": "America/New_York",
+              "bounds": {
+              "min_lat": 42.2711,
+              "max_lat": 42.464,
+              "min_lon": -71.1189,
+              "max_lon": -70.9282
+              },
+              "bgtfs_uploaded_at": "2017-08-15T05:06:08Z",
+              "location": "Boston",
+              "country_code": "US",
+              "bgtfs_hash": "277748010289702a1adaf9cf6cbe12ca"
+              },
+              {
+              "id": 69,
+              "name": "Metra",
+              "code": "METRA",
+              "feed_network_name": null,
+              "timezone": "America/Chicago",
+              "bounds": {
+              "min_lat": 41.3282,
+              "max_lat": 42.669,
+              "min_lon": -88.7059,
+              "max_lon": -87.458
+              },
+              "bgtfs_uploaded_at": "2017-08-12T19:27:30Z",
+              "location": "Chicago",
+              "country_code": "US",
+              "bgtfs_hash": "a685f7102401903601ee404d8bf235c7"
+              },
+              {
+              "id": 70,
+              "name": "Metro",
+              "code": "WMATA",
+              "feed_network_name": "",
+              "timezone": "America/New_York",
+              "bounds": {
+              "min_lat": 38.6015,
+              "max_lat": 39.2931,
+              "min_lon": -77.5414,
+              "max_lon": -76.5783
+              },
+              "bgtfs_uploaded_at": "2017-08-14T17:25:49Z",
+              "location": "Washington D.C.",
+              "country_code": "US",
+              "bgtfs_hash": "a4244da954ae64985da3218844948c9e"
+              },
+              {
+              "id": 71,
+              "name": "DC Circulator",
+              "code": "DCC",
+              "feed_network_name": "",
+              "timezone": "America/New_York",
+              "bounds": {
+              "min_lat": 38.7717,
+              "max_lat": 39.0187,
+              "min_lon": -77.1585,
+              "max_lon": -76.8747
+              },
+              "bgtfs_uploaded_at": "2017-08-15T05:14:39Z",
+              "location": "Washington D.C.",
+              "country_code": "US",
+              "bgtfs_hash": "aafa4c1b55b7a960e166d868cdb22c93"
+              },
+              {
+              "id": 72,
+              "name": "Miami-Dade Transit",
+              "code": "MDT",
+              "feed_network_name": null,
+              "timezone": "America/New_York",
+              "bounds": {
+              "min_lat": 24.6252,
+              "max_lat": 26.2117,
+              "min_lon": -81.1666,
+              "max_lon": -80.0326
+              },
+              "bgtfs_uploaded_at": "2017-06-19T14:15:43Z",
+              "location": "Miami",
+              "country_code": "US",
+              "bgtfs_hash": "120718508564493b86bd9be3e62de7f3"
+              },
+              {
+              "id": 73,
+              "name": "Capital Metro",
+              "code": "CAPM",
+              "feed_network_name": "",
+              "timezone": "America/Chicago",
+              "bounds": {
+              "min_lat": 30.0504,
+              "max_lat": 30.6852,
+              "min_lon": -98.078,
+              "max_lon": -97.2801
+              },
+              "bgtfs_uploaded_at": "2017-08-14T15:25:35Z",
+              "location": "Austin",
+              "country_code": "US",
+              "bgtfs_hash": "aa6d49e17b6e92c44254907da2a2bf0d"
+              },
+              {
+              "id": 74,
+              "name": "TriMet",
+              "code": "TRIMET",
+              "feed_network_name": "",
+              "timezone": "America/Los_Angeles",
+              "bounds": {
+              "min_lat": 45.1979,
+              "max_lat": 45.7286,
+              "min_lon": -123.2057,
+              "max_lon": -122.2451
+              },
+              "bgtfs_uploaded_at": "2017-08-09T10:39:29Z",
+              "location": "Portland",
+              "country_code": "US",
+              "bgtfs_hash": "b699b93c8c46390d98b3aaee4abe3634"
+              }
+              ],
+    "sharing_system_feeds": [
+                             {
+                             "id": 1,
+                             "name": "BIXI",
+                             "service_id": null,
+                             "cell_layouts": null,
+                             "sort_order": 1,
+                             "in_beta": 0,
+                             "default": true,
+                             "trip_planner_engine_id": "bike-sharing",
+                             "is_map_layer": true,
+                             "is_map_overlay": false,
+                             "display_mask": 67,
+                             "slug": "bixi",
+                             "package_version": null,
+                             "package_url": null,
+                             "bounds": {
+                             "min_lat": 45.4296,
+                             "max_lat": 45.5808,
+                             "min_lon": -73.6708,
+                             "max_lon": -73.4954
+                             },
+                             "subtitle": "",
+                             "is_nearby_service": null
+                             },
+                             {
+                             "id": 2,
+                             "name": "Citi Bike",
+                             "service_id": null,
+                             "cell_layouts": null,
+                             "sort_order": null,
+                             "in_beta": 0,
+                             "default": true,
+                             "trip_planner_engine_id": "bike-sharing",
+                             "is_map_layer": true,
+                             "is_map_overlay": false,
+                             "display_mask": 67,
+                             "slug": "citi-bike",
+                             "package_version": null,
+                             "package_url": null,
+                             "bounds": {
+                             "min_lat": 40.6803,
+                             "max_lat": 40.7715,
+                             "min_lon": -74.0171,
+                             "max_lon": -73.95
+                             },
+                             "subtitle": null,
+                             "is_nearby_service": null
+                             },
+                             {
+                             "id": 3,
+                             "name": "Vélhop",
+                             "service_id": null,
+                             "cell_layouts": null,
+                             "sort_order": null,
+                             "in_beta": 0,
+                             "default": true,
+                             "trip_planner_engine_id": "bike-sharing",
+                             "is_map_layer": true,
+                             "is_map_overlay": false,
+                             "display_mask": 67,
+                             "slug": "velhop",
+                             "package_version": null,
+                             "package_url": null,
+                             "bounds": {
+                             "min_lat": 48.5296,
+                             "max_lat": 48.6284,
+                             "min_lon": 7.7112,
+                             "max_lon": 7.7956
+                             },
+                             "subtitle": null,
+                             "is_nearby_service": null
+                             },
+                             {
+                             "id": 4,
+                             "name": "Bike Share Toronto",
+                             "service_id": null,
+                             "cell_layouts": null,
+                             "sort_order": null,
+                             "in_beta": 0,
+                             "default": true,
+                             "trip_planner_engine_id": "bike-sharing",
+                             "is_map_layer": true,
+                             "is_map_overlay": false,
+                             "display_mask": 67,
+                             "slug": "bike-share-toronto",
+                             "package_version": null,
+                             "package_url": null,
+                             "bounds": {
+                             "min_lat": 43.6354,
+                             "max_lat": 43.6716,
+                             "min_lon": -79.4196,
+                             "max_lon": -79.3603
+                             },
+                             "subtitle": null,
+                             "is_nearby_service": null
+                             },
+                             {
+                             "id": 6,
+                             "name": "Hubway",
+                             "service_id": null,
+                             "cell_layouts": null,
+                             "sort_order": null,
+                             "in_beta": 0,
+                             "default": true,
+                             "trip_planner_engine_id": "bike-sharing",
+                             "is_map_layer": true,
+                             "is_map_overlay": false,
+                             "display_mask": 67,
+                             "slug": "hubway",
+                             "package_version": null,
+                             "package_url": null,
+                             "bounds": {
+                             "min_lat": 42.3095,
+                             "max_lat": 42.4045,
+                             "min_lon": -71.1478,
+                             "max_lon": -71.0237
+                             },
+                             "subtitle": null,
+                             "is_nearby_service": null
+                             },
+                             {
+                             "id": 7,
+                             "name": "VélÔToulouse",
+                             "service_id": null,
+                             "cell_layouts": null,
+                             "sort_order": null,
+                             "in_beta": 0,
+                             "default": true,
+                             "trip_planner_engine_id": "bike-sharing",
+                             "is_map_layer": true,
+                             "is_map_overlay": false,
+                             "display_mask": 67,
+                             "slug": "velotoulouse",
+                             "package_version": null,
+                             "package_url": null,
+                             "bounds": {
+                             "min_lat": 43.5572,
+                             "max_lat": 43.6475,
+                             "min_lon": 1.3771,
+                             "max_lon": 1.4878
+                             },
+                             "subtitle": null,
+                             "is_nearby_service": null
+                             },
+                             {
+                             "id": 8,
+                             "name": "Vélib",
+                             "service_id": null,
+                             "cell_layouts": null,
+                             "sort_order": null,
+                             "in_beta": 0,
+                             "default": true,
+                             "trip_planner_engine_id": "bike-sharing",
+                             "is_map_layer": true,
+                             "is_map_overlay": false,
+                             "display_mask": 67,
+                             "slug": "velib",
+                             "package_version": null,
+                             "package_url": null,
+                             "bounds": {
+                             "min_lat": 48.8064,
+                             "max_lat": 48.9152,
+                             "min_lon": 2.2222,
+                             "max_lon": 2.4795
+                             },
+                             "subtitle": null,
+                             "is_nearby_service": null
+                             },
+                             {
+                             "id": 9,
+                             "name": "Divvy",
+                             "service_id": null,
+                             "cell_layouts": null,
+                             "sort_order": null,
+                             "in_beta": 0,
+                             "default": true,
+                             "trip_planner_engine_id": "bike-sharing",
+                             "is_map_layer": true,
+                             "is_map_overlay": false,
+                             "display_mask": 67,
+                             "slug": "divvy",
+                             "package_version": null,
+                             "package_url": null,
+                             "bounds": {
+                             "min_lat": 41.5887,
+                             "max_lat": 42.1784,
+                             "min_lon": -87.9079,
+                             "max_lon": -87.3807
+                             },
+                             "subtitle": null,
+                             "is_nearby_service": null
+                             }
+                             ],
+    "banner_messages": {},
+    "search_placeholders": {},
+    "features": {
+        "chat": [
+                 85,
+                 103
+                 ],
+        "live": {
+            "feeds": [
+                      1,
+                      4,
+                      6,
+                      67,
+                      68,
+                      417,
+                      431,
+                      140,
+                      324,
+                      103,
+                      85
+                      ],
+            "sharing_system_feeds": [
+                                     551
+                                     ]
+        }
+    },
+    "share_strings": {
+        "en": "Transit is the simple and beautiful way to get around. Get it for free for iPhone and Android: http://transitapp.com/download",
+        "fr": "Simplifiez vos déplacements avec Transit. Disponible gratuitement pour iPhone et Android : http://transitapp.com/download",
+        "es": "La Tránsito App es la forma más sencilla para desplazarse. Obtener de forma gratuita para iPhone y Android: http://transitapp.com/download"
+    }
+}

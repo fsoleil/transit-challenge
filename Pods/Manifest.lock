@@ -1,0 +1,25 @@
+PODS:
+  - PromiseKit (4.2.0):
+    - PromiseKit/Foundation (= 4.2.0)
+    - PromiseKit/QuartzCore (= 4.2.0)
+    - PromiseKit/UIKit (= 4.2.0)
+  - PromiseKit/CorePromise (4.2.0)
+  - PromiseKit/Foundation (4.2.0):
+    - PromiseKit/CorePromise
+  - PromiseKit/QuartzCore (4.2.0):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (4.2.0):
+    - PromiseKit/CorePromise
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - PromiseKit
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  PromiseKit: '08dfb783c161ddcd95b7912421f14c5113fd8318'
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 4bc1a55021e687b5e9216ee897dc9bf8a04a0781
+
+COCOAPODS: 1.2.1
